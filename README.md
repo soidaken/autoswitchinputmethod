@@ -1,0 +1,2 @@
+# autoswitchinputmethod
+这是一个给中文环境程序开发使用的一个输入法自动切换工具
