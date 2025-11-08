@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <AssemblyName>InputAutoSwitch</AssemblyName>
+    <Product>输入法自动切换工具</Product>
+    <Version>1.0.0</Version>
+    <Authors>Soida</Authors>
+    <Description>自动检测输入法状态并切换到英文模式</Description>
+  </PropertyGroup>
+
+</Project>

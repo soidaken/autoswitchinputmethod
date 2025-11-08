@@ -1,1 +1,0 @@
-taskkill /IM autoswitchinputmethod.exe /F
